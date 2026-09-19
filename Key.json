@@ -25,6 +25,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-X3JMXO": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-09-19",
+      "hwid": [
+        "1357"
+      ]
     }
   }
 }
